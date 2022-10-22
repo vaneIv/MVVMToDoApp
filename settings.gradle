@@ -20,6 +20,7 @@ pluginManagement {
         id 'com.android.application' version '7.1.0-alpha13'
         id 'com.android.library' version '7.1.0-alpha13'
         id 'org.jetbrains.kotlin.android' version '1.5.30'
+        id 'org.jetbrains.kotlin.android.extensions' version '1.5.30'
         id 'org.jetbrains.kotlin.kapt' version '1.5.30'
         id 'dagger.hilt.android.plugin' version "2.40.1"
         id 'androidx.navigation.safeargs.kotlin' version "2.3.1"
