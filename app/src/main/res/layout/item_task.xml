@@ -34,5 +34,4 @@
         android:layout_centerVertical="true"
         android:src="@drawable/ic_priority" />
 
-
 </RelativeLayout>

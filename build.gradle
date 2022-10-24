@@ -14,7 +14,7 @@ ext {
     swipeRefreshLayoutVersion = "1.1.0"
     hiltVersion = "2.40.1"
     hiltLifecycleViewmodelVersion = "1.0.0-alpha03"
-    ktxVersion = "1.4.0"
+    ktxVersion = "1.5.0"
     coreKtxVersion = "1.7.0"
     roomVersion = "2.4.0-beta02"
     coroutinesVersion = "1.5.2"
